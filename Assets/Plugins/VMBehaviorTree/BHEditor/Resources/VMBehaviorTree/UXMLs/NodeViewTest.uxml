@@ -1,0 +1,8 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Plugins/VMBehaviorTree/BHEditor/Resources/VMBehaviorTree/StyleSheets/NodeViewStyle.uss?fileID=7433441132597879392&amp;guid=72a71b38202423b4a8901a944861b1ae&amp;type=3#NodeViewStyle" />
+    <Style src="project://database/Assets/Plugins/VMBehaviorTree/BHEditor/Resources/VMBehaviorTree/StyleSheets/NodeViewRunningStyle.uss?fileID=7433441132597879392&amp;guid=09fc28cfd3652ab46a5f0063ebdeafa9&amp;type=3#NodeViewRunningStyle" />
+    <Style src="project://database/Assets/Plugins/VMBehaviorTree/BHEditor/Resources/VMBehaviorTree/StyleSheets/NodeViewFailureStyle.uss?fileID=7433441132597879392&amp;guid=cc1f7feb3f7f07e4e8e8778890c94222&amp;type=3#NodeViewFailureStyle" />
+    <Style src="project://database/Assets/Plugins/VMBehaviorTree/BHEditor/Resources/VMBehaviorTree/StyleSheets/NodeViewSuccessStyle.uss?fileID=7433441132597879392&amp;guid=9ce502719858adb4599aa017d82f707f&amp;type=3#NodeViewSuccessStyle" />
+    <Style src="project://database/Assets/Plugins/VMBehaviorTree/BHEditor/Resources/VMBehaviorTree/StyleSheets/NodeViewAbortedStyle.uss?fileID=7433441132597879392&amp;guid=f479de09af186e649831d8b2a7489037&amp;type=3#NodeViewAbortedStyle" />
+    <VMBehaviorTree.Editor.NodeView view-data-key="161f60f6-e93c-41b2-bdeb-df252a700356" style="height: 117px; width: 151px;" />
+</engine:UXML>
